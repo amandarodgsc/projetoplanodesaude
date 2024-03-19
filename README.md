@@ -1,4 +1,4 @@
-# Desafio 7 em 7: Projeto de Desenvolvimento Web
+# Projeto de Desenvolvimento Web
 
 Este projeto foi desenvolvido como parte do Desafio 7 em 7, uma série de desafios que visam melhorar as habilidades de desenvolvimento web em um curto espaço de tempo.
 
