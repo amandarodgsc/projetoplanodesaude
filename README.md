@@ -6,6 +6,9 @@ Este projeto foi desenvolvido como parte do Desafio 7 em 7, uma série de desafi
 
 O projeto consiste em criar um site responsivo com base em um layout fornecido. O objetivo é traduzir o design estático em uma experiência web interativa e atraente para os usuários.
 
+![image](https://github.com/amandarodgsc/projetoplanodesaude/assets/111945316/74d21ff7-4316-41b4-be79-44dacd7992ce)
+
+
 ## Tecnologias Utilizadas
 
 - HTML5
